@@ -1,29 +1,23 @@
-
-  
-
-
-
-
 .nav-item {
     margin: 0px 15px;
-  }
-  
-  .navbar-nav {
+}
+
+.navbar-nav {
     margin-left: auto;
     margin-right: 0 !important;
-  }
-  
+}
+
 
 /* Jumbotron Equivalent */
-.hero-banner{
+.hero-banner {
     background-image: url(../Images/02-hero-bg.jpg);
     width: 100%;
     height: 300px;
     background-size: cover;
     opacity: 1;
-    }
-    
-    .hero-banner h2{
+}
+
+.hero-banner h2 {
     background-color: cornflowerblue;
     padding: 5px 15px 5px 15px;
     margin-right: 150px;
@@ -32,66 +26,75 @@
     float: right;
     position: relative;
     top: 200px;
-    }
-    
-    .content {
-        padding: 50px;
-    }      
-    .sectionHeading {
-        text-align: center;
-        padding-bottom: 20px;
-      }
-    .mywork{
-        padding: 0px 30px 30px 30px;
-    }
-
-    .cardContainer {
-        text-align: center;
-      }
-      
-
-      /* .content*/
-
-      .sideAccent {
-        background: #007bff;
-        width: 15px;
-      }
-      .imageContainer img {
-        width: 100%;
-      }
-      .imageContainer {
-        padding: 30px;
-      }
-      .valueProp {
-        margin-top: 15px;
-        margin-bottom: 15px;
-      }
-      
-.card{
-
-   margin-bottom: 30px;
 }
 
-h5{
+.content {
+    padding: 50px;
+}
+
+.sectionHeading {
+    text-align: center;
+    padding-bottom: 20px;
+}
+
+.mywork {
+    padding: 0px 30px 30px 30px;
+}
+
+.cardContainer {
     text-align: center;
 }
 
 
+/* .content*/
 
-footer li{
+.sideAccent {
+    background: #007bff;
+    width: 15px;
+}
+
+.imageContainer img {
+    width: 100%;
+}
+
+.imageContainer {
+    padding: 30px;
+}
+
+.valueProp {
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+.card {
+
+    margin-bottom: 30px;
+}
+
+h5 {
+    text-align: center;
+}
+
+
+footer ul {
+    margin-left: 250px;
+}
+
+footer li {
     display: inline-block;
     margin-left: 60px;
     margin-right: 60px;
     border-bottom: solid 3px rgb(0, 185, 185);
     font-size: 20px;
-    }
-    
-footer a{
+
+}
+
+footer a {
     text-decoration: none;
     color: black;
-    }
-    
-footer     h3{
+}
+
+footer h3 {
     color: white;
     font-size: 20px;
     display: inline;
@@ -99,11 +102,24 @@ footer     h3{
     position: relative;
     bottom: -60%;
     padding: 5px 10px 5px 20px;
-    }
-
-#backtotop {
-position: relative;
-top: 20px;
-left: 46%;
 }
 
+#backtotop {
+    position: relative;
+    top: 20px;
+    left: 46%;
+}
+
+#meimg {
+    padding-top: 0px;
+    position: relative;
+    top: -60px;
+}
+
+#githublink:hover {
+    color: red;
+}
+
+.btn:hover {
+    box-shadow: 10px 5px 5px black;
+}
