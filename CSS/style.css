@@ -48,3 +48,23 @@
         text-align: center;
       }
       
+
+      /* .content*/
+
+      .sideAccent {
+        background: #007bff;
+        width: 15px;
+      }
+      .imageContainer img {
+        width: 100%;
+      }
+      .imageContainer {
+        padding: 50px;
+      }
+      .valueProp {
+        margin-top: 15px;
+        margin-bottom: 15px;
+      }
+      
+
+      
