@@ -75,3 +75,34 @@
 h5{
     text-align: center;
 }
+
+
+
+footer li{
+    display: inline-block;
+    margin-left: 60px;
+    margin-right: 60px;
+    border-bottom: solid 3px rgb(0, 185, 185);
+    font-size: 20px;
+    }
+    
+footer a{
+    text-decoration: none;
+    color: black;
+    }
+    
+footer     h3{
+    color: white;
+    font-size: 20px;
+    display: inline;
+    background-color: skyblue;
+    position: relative;
+    bottom: -60%;
+    padding: 5px 10px 5px 20px;
+    }
+
+#backtotop {
+position: relative;
+top: 20px;
+left: 46%;
+}
