@@ -60,7 +60,7 @@
         width: 100%;
       }
       .imageContainer {
-        padding: 50px;
+        padding: 30px;
       }
       .valueProp {
         margin-top: 15px;
@@ -106,3 +106,4 @@ position: relative;
 top: 20px;
 left: 46%;
 }
+
