@@ -1,3 +1,19 @@
+
+  
+
+
+
+
+.nav-item {
+    margin: 0px 15px;
+  }
+  
+  .navbar-nav {
+    margin-left: auto;
+    margin-right: 0 !important;
+  }
+  
+
 /* Jumbotron Equivalent */
 .hero-banner{
     background-image: url(../Images/02-hero-bg.jpg);
@@ -18,3 +34,17 @@
     top: 200px;
     }
     
+    .content {
+        padding: 50px;
+    }      
+    .sectionHeading {
+        text-align: center;
+      }
+    .mywork{
+        padding: 0px 30px 30px 30px;
+    }
+
+    .cardContainer {
+        text-align: center;
+      }
+      
