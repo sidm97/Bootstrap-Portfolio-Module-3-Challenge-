@@ -39,6 +39,7 @@
     }      
     .sectionHeading {
         text-align: center;
+        padding-bottom: 20px;
       }
     .mywork{
         padding: 0px 30px 30px 30px;
@@ -66,5 +67,7 @@
         margin-bottom: 15px;
       }
       
+.card{
 
-      
+   margin-bottom: 30px;
+}
