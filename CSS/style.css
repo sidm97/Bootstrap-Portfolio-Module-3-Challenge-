@@ -1,3 +1,20 @@
-header{
-    display: flex;
-}
+/* Jumbotron Equivalent */
+.hero-banner{
+    background-image: url(../Images/02-hero-bg.jpg);
+    width: 100%;
+    height: 300px;
+    background-size: cover;
+    opacity: 1;
+    }
+    
+    .hero-banner h2{
+    background-color: cornflowerblue;
+    padding: 5px 15px 5px 15px;
+    margin-right: 150px;
+    color: rgb(39, 39, 39);
+    font-size: 30px;
+    float: right;
+    position: relative;
+    top: 200px;
+    }
+    
